@@ -1,16 +1,16 @@
-What is EC2, Why EC2, Types of EC2, Regions, Availability Zones in AWS
+**What is EC2, Why EC2, Types of EC2, Regions, Availability Zones in AWS**
 
-What is EC2 ?
+**What is EC2 ?**
 
 EC2-- Elastic Compute Cloud
 
 Compute -- CPU, RAM & DISK (Nothing but a Virtual Server)
 
-Why EC2 ?
+**Why EC2 ?**
 
 No Maintenance, No Timely upgrades required by Sys Admin, No Security Issues, Scalable & Pay as you go.
 
-Types of EC2 ?
+**Types of EC2 ?**
 
 1. General Purpose 🖥️
 
@@ -70,7 +70,7 @@ g4, g5 → graphics.
 
 f1 → FPGA.
 
-🔹 Instance Size
+**🔹 Instance Size**
 
 Each family has sizes like:
 
@@ -82,7 +82,7 @@ Example:
 m5.large = 2 vCPUs, 8 GB RAM.
 m5.2xlarge = 8 vCPUs, 32 GB RAM.
 
-Regions & AZ's in AWS :
+**Regions & AZ's in AWS :**
 
 A Region is a geographical area in the world where AWS has data centers.
 
